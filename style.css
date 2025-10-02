@@ -90,10 +90,12 @@ a:hover {
     #um {
         width: 100%;
         margin-top: 10px;
+        margin: 0;
     }
 
     #dois {
         width: 100%;
         margin-top: 30px;
+        margin: 0;
     }
 }
